@@ -1,2 +1,2 @@
 # Ball-Game
-yt
+This is a ball-brick hit game, inwhich there will be some bricks, a paddle and a ball. Ball will travel through a rectangular canvas and and change its direction on hitting the sides of canvas, but in the bottom of the canvas it will only change direction if ball hit the paddle, otherwise the player loses a life. Game stops when all the lives are used and shows "Game over". Game also stops when all the bricks are hit and shows "You won".
